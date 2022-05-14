@@ -1,4 +1,4 @@
-package com.dio.santander.backline.model;
+package com.dio.santander.bankline.model;
 
 public enum MovimentacaoTipo {
 	RECEITA,

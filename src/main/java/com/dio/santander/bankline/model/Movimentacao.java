@@ -1,4 +1,4 @@
-package com.dio.santander.backline.model;
+package com.dio.santander.bankline.model;
 
 import java.time.LocalDateTime;
 
@@ -51,6 +51,10 @@ public class Movimentacao {
 	}
 	public void setTipo(MovimentacaoTipo tipo) {
 		this.tipo = tipo;
+	}
+	public void setIdConta(Integer idConta) {
+		// TODO Auto-generated method stub
+		
 	}
 	
 	
